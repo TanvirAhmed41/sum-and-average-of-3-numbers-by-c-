@@ -1,0 +1,1 @@
+# sum-and-average-of-3-numbers-by-c-
